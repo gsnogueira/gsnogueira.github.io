@@ -4,7 +4,7 @@
 }
 
 ::-webkit-scrollbar-track {
-  background: #f1f1f1;
+  background: #151515;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -248,7 +248,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #151515;
+  color: #fff;
 }
 
 .section-title h2::after {
@@ -269,7 +269,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #151515;
+  color: #fff;
 }
 
 .about .content ul {
@@ -351,7 +351,7 @@ section {
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #050d18;
+  color: #fff;
 }
 
 .resume .resume-item {
@@ -367,14 +367,15 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #050d18;
+  color: #fff;
   margin-bottom: 10px;
 }
 
 .resume .resume-item h5 {
   font-size: 16px;
   color: #fff;
-  background: #149ddd;
+  background: #151515;
+  border: solid 1px #ffffff;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
@@ -466,4 +467,12 @@ section {
   .breadcrumbs ol li {
     display: inline-block;
   }
+}
+#about{
+  background: #28363e;
+  color: #fff;
+}
+#resume{
+  background: #28363e;
+  color: #fff;
 }
