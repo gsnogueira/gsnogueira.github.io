@@ -76,7 +76,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #151515;
   overflow-y: auto;
 }
 
@@ -248,7 +248,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #173b6c;
+  color: #151515;
 }
 
 .section-title h2::after {
@@ -269,7 +269,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #173b6c;
+  color: #151515;
 }
 
 .about .content ul {
@@ -343,7 +343,7 @@ section {
 }
 
 .facts .count-box a:hover {
-  color: #1f5297;
+  color: #28363e;
 }
 
 .resume .resume-title {
@@ -357,7 +357,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #1f5297;
+  border-left: 2px solid #149ddd;
   position: relative;
 }
 
@@ -373,7 +373,8 @@ section {
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #e4edf9;
+  color: #fff;
+  background: #149ddd;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
@@ -397,11 +398,10 @@ section {
   position: absolute;
   width: 16px;
   height: 16px;
-  border-radius: 50px;
   left: -9px;
   top: 0;
-  background: #fff;
-  border: 2px solid #1f5297;
+  background: #149ddd;
+  border: 2px solid #149ddd;
 }
 
 @-webkit-keyframes animate-loading {
