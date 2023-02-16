@@ -380,6 +380,7 @@ section {
   display: inline-block;
   font-weight: 600;
   margin-bottom: 10px;
+  border-radius: 5px;
 }
 
 .resume .resume-item ul {
@@ -469,8 +470,9 @@ section {
   }
 }
 #about{
-  background: #28363e;
+  background: #3c4c56;
   color: #fff;
+  text-shadow: black 0.1em 0.1em 0.2em
 }
 #resume{
   background: #28363e;
