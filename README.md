@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋, I'm Gabriel</h1>
-<h3 align="center">Dev Frontend</h3>
+<h3 align="center">Dev Full Stack</h3>
 
 
 Technologist, majored in digital games by Fatec Carapicuíba, where I had the opportunity to do some monitoring in database. Currently I work as a Frontend developer. I have knowledge in several development technologies and programming languages with focus on web.
