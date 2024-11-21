@@ -2,7 +2,7 @@
 <h3 align="center">Dev Full Stack</h3>
 
 
-Technologist, majored in digital games by Fatec Carapicuíba, where I had the opportunity to do some monitoring in database. Currently I work as a Frontend developer. I have knowledge in several development technologies and programming languages with focus on web.
+Professional with more than 6 years of experience in systems development with a focus on front-end. I worked with financial applications and credit products, having acquired extensive knowledge in business rules
 
 <h3 align="center">Languages and Tools:</h3>
 
